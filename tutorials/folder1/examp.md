@@ -3,7 +3,7 @@ title: example for 2 rep
 description: example for 2 rep
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
-Update file
+Update file1
 
 You can use:
 
